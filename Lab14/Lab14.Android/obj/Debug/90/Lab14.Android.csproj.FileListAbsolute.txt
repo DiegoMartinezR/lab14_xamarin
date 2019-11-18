@@ -1,0 +1,4 @@
+C:\Users\DIEGO\source\repos\Lab14\Lab14\Lab14.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\DIEGO\source\repos\Lab14\Lab14\Lab14.Android\obj\Debug\90\build.props
+C:\Users\DIEGO\source\repos\Lab14\Lab14\Lab14.Android\obj\Debug\90\adb.props
+C:\Users\DIEGO\source\repos\Lab14\Lab14\Lab14.Android\obj\Debug\90\Lab14.Android.csprojAssemblyReference.cache
